@@ -1,5 +1,4 @@
 # tcf
-# 项目名称
 
 <p align="center">
   <img src="你的项目Logo或头图URL" width="200" />

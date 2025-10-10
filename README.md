@@ -1,4 +1,4 @@
-# interhemispheric tropical cyclone frequency trends
+# Interhemispheric tropical cyclone frequency trends
 
 <p align="center">
   <img src="你的项目Logo或头图URL" width="200" />

@@ -29,14 +29,21 @@ This repository includes the following folders:
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
-  Python == 3.11
-  numpy == 1.20
-  pandas == 1.3
-  scipy == 1.7
-  nibabel == 3.2
-  matplotlib == 3.4
-  seaborn == 0.11
-  scikit-learn == 1.0
+  numpy
+  pandas
+  scipy
+  matplotlib
+  scikit-learn
+  cartopy
+  cmaps
+  lightgbm
+  metpy
+  netCDF4
+  pymannkendall
+  statsmodels
+  xarray
+  xesmf
+  xgboost
   ```
 - **Hardware**:
   ```

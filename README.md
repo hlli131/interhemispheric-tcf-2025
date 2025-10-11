@@ -15,7 +15,7 @@ This repository includes the following folders:
 - *demo*
 
 | Folder name | Description |
-| --------- | ---------- |
+| ---------- | ---------- |
 | *observed_interhemispheric_contrast* | Analyze and plot the contrast in TCF trends between hemispheres (**Fig. 1**) |
 | *key_factors_identification* | Identify key factors and quantify their contributions and interactions applying IML (**Fig. 2**) |
 | *detection_and_attribution_analysis* | Detect and attribute TCF to human fingerprints using OFM and CMIP6 simulations (**Fig. 3**) |

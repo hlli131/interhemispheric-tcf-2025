@@ -7,10 +7,20 @@
 
 
 ## ✨ Brief introduction
-- *observed_interhemispheric_contrast*:
-- *key_factors_identification*:
-- *detection_and_attribution_analysis*:
-- *physical_mechanisms_explanation*: 
+This repository includes the following folders:
+- *observed_interhemispheric_contrast*
+- *key_factors_identification*
+- *detection_and_attribution_analysis*
+- *physical_mechanisms_explanation*:
+- *demo*
+
+| Folder name | Description |
+| --------- | ---------- |
+| *observed_interhemispheric_contrast* | analyze and plot the contrast in TCF trends between hemispheres (Fig. 1) |
+| *key_factors_identification* | 关键因子识别 |
+| *detection_and_attribution_analysis* | 检测与归因分析 |
+| *physical_mechanisms_explanation* | 物理机制解释 |
+| *demo* | test codes on a small dataset and output the results |
 
 
 ## 🖥️ Configuration (desktop)

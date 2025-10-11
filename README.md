@@ -22,14 +22,30 @@ conda install your-package-name
 ## 🚀 Quick start
 
 
+## 🛠️
+
 
 ## 🧪 Test
+
+
+##📊
+
 
 
 ### Using Python
 
 ```
-conda install your-package-name
+from your_package import main_module
+
+# 
+instance = main_module.YourClass()
+
+# 
+result = instance.process_data("your input")
+print(result)
 ```
 
-34
+## 🎨 
+
+## 📄 Licence
+> This repository is open source under the MIT License.

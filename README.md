@@ -88,4 +88,4 @@ print(result)
 
 
 ## 📄 Licence
-> This repository is open source under the MIT License.
+> This repository is open source under the **MIT License**.

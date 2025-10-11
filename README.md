@@ -6,7 +6,7 @@
 > For peer review only. The final version will be updated upon acceptance.
 
 
-## ✨ Brief introduction
+## 📖 Brief introduction
 This repository includes the following folders:
 - *observed_interhemispheric_contrast*
 - *key_factors_identification*
@@ -16,16 +16,16 @@ This repository includes the following folders:
 
 | Folder name | Description |
 | --------- | ---------- |
-| *observed_interhemispheric_contrast* | analyze and plot the contrast in TCF trends between hemispheres (Fig. 1) |
-| *key_factors_identification* | use IML to identify key factors and quantify their contributions and interactions (Fig. 2) |
-| *detection_and_attribution_analysis* | 检测与归因分析 |
-| *physical_mechanisms_explanation* | 物理机制解释 |
-| *demo* | test codes on a small dataset and output the results |
+| *observed_interhemispheric_contrast* | Analyze and plot the contrast in TCF trends between hemispheres (Fig. 1) |
+| *key_factors_identification* | Identify key factors and quantify their contributions and interactions applying IML (Fig. 2) |
+| *detection_and_attribution_analysis* | Detect and attribute TCF to human fingerprints using OFM and CMIP6 simulations (Fig. 3) |
+| *physical_mechanisms_explanation* | Explain the physical mechanisms through coupled dynamics and thermodynamics pathways (Fig. 4) |
+| *demo* | Test the above codes on a small dataset and output the corresponding results |
 
 
 ## 🖥️ Configuration (desktop)
 
-- **Operating system**: Windows Subsystem for Linux (WSL)  
+- **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
   Python == 3.11
@@ -37,10 +37,10 @@ This repository includes the following folders:
   seaborn == 0.11
   scikit-learn == 1.0
   ```
-- **Hardwares**:
+- **Hardware**:
   ```
   Memory: 16 GB
-  CPU: 20 × Intel(R) Core(TM) i5-14500
+  CPU: Intel(R) Core(TM) i5-14500 (14 cores, 20 threads)
   GPU:
     NVIDIA GeForce GTX 750 Ti (dedicated)
     Intel(R) UHD Graphics 770 (integrated)

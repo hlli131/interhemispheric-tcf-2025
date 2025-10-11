@@ -17,7 +17,7 @@ This repository includes the following folders:
 | Folder name | Description |
 | --------- | ---------- |
 | *observed_interhemispheric_contrast* | analyze and plot the contrast in TCF trends between hemispheres (Fig. 1) |
-| *key_factors_identification* | 关键因子识别 |
+| *key_factors_identification* | use IML to identify key factors and quantify their contributions and interactions (Fig. 2) |
 | *detection_and_attribution_analysis* | 检测与归因分析 |
 | *physical_mechanisms_explanation* | 物理机制解释 |
 | *demo* | test codes on a small dataset and output the results |

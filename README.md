@@ -22,13 +22,14 @@ conda install your-package-name
 ## 🚀 Quick start
 
 
-## 🛠️
+## 🛠️ Environmental  settings
 
+## 🔧 Dependencies
 
 ## 🧪 Test
 
 
-## 📊
+## 📊 Operation evaluation
 
 
 
@@ -45,7 +46,7 @@ result = instance.process_data("your input")
 print(result)
 ```
 
-## 🎨 
+## 🎨 Usage suggestion
 
 ## 📄 Licence
 > This repository is open source under the MIT License.

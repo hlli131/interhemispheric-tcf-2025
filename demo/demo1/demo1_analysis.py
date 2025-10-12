@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # =================================================
 # demo1: observed_interhemispheric_contrast
 # =================================================
@@ -384,4 +385,5 @@ def main():
     print(trends_df[['Region', 'slope', 'pvalue']].round(4))
 
 if __name__ == "__main__":
+
     main()

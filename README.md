@@ -8,14 +8,14 @@
 
 
 ## 📖 Brief introduction
-This repository includes the following folders:
+This repository includes the following directories:
 - *`observed_interhemispheric_contrast`*
 - *`key_factors_identification`*
 - *`detection_and_attribution_analysis`*
 - *`physical_mechanisms_explanation`*
 - *`demo`*
 
-| Folder name | Description |
+| Directory name | Description |
 | ---------- | ---------- |
 | *observed_interhemispheric_contrast* | Analyze and plot the contrast in TCF trends between hemispheres (**Fig. 1**) |
 | *key_factors_identification* | Identify key factors and quantify their contributions and interactions applying IML (**Fig. 2**) |
@@ -65,7 +65,7 @@ pip install <package_name>
 
 
 ## 🚀 Demo
-The *`demo`* folder provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **analysis codes**, **sample data** and **corresponding output**:
+The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **analysis codes**, **sample data** and **corresponding output**:
 ```
 demo/
 ├── demo1/

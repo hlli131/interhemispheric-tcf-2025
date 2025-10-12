@@ -12,7 +12,7 @@ This repository includes the following folders:
 - *observed_interhemispheric_contrast*
 - *key_factors_identification*
 - *detection_and_attribution_analysis*
-- *physical_mechanisms_explanation*:
+- *physical_mechanisms_explanation*
 - *demo*
 
 | Folder name | Description |
@@ -29,7 +29,7 @@ This repository includes the following folders:
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
-  Python==3.11
+  # Python==3.11
   numpy==1.26.4
   scipy==1.14.0
   pandas==2.2.3
@@ -50,23 +50,19 @@ This repository includes the following folders:
   ```
   Memory: 16 GB
   CPU: Intel(R) Core(TM) i5-14500 (14 cores, 20 threads)
-  GPU:
-    NVIDIA GeForce GTX 750 Ti (dedicated)
-    Intel(R) UHD Graphics 770 (integrated)
+  GPU: NVIDIA GeForce GTX 750 Ti (dedicated) & Intel(R) UHD Graphics 770 (integrated)
   ```
-
-  
 
 ## ⚙️ Installation
 All required packages can be installed via `conda` (from [**Conda-forge**](https://conda-forge.org)) or `pip` (from [**PyPI**](https://pypi.org)) using the following commands:
 ```
-# Using conda (recommended)
+# Using conda (recommended) ✅
 conda install <package_name> -c conda-forge
 
-# Using pip
+# Using pip ✅
 pip install <package_name>
 ```
-
+**⏱️ Expected installation time**: Typically completes **within 5 minutes**, depending on the network speed and system configuration.
 
 ## 🚀 Demo
 

@@ -65,12 +65,27 @@ pip install <package_name>
 
 
 ## 🚀 Demo
-The *`demo`* folder provides a lightweight version of the analysis pipeline using a small sample dataset. This allows users to quickly verify that all components are working correctly before running the full analysis.
+The *`demo`* folder provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **analysis codes**, **sample data** and **corresponding output**:
 ```
-cd demo
-python run_demo.py
+demo/
+├── demo1/
+│   ├── demo1_analysis.ipynb
+│   ├── demo1_data/
+│   └── FigD1.png
+├── demo2/
+│   ├── demo2_analysis.ipynb
+│   ├── demo2_data/
+│   └── FigD2.png
+├── demo3/
+│   ├── demo3_analysis.ipynb
+│   ├── demo3_data/
+│   └── FigD3.png
+└── demo4/
+    ├── demo4_analysis.ipynb
+    ├── demo4_data/
+    └── FigD4.png
 ```
-
+**⚠️ Please note**: These outputs (e.g., Figs. D1–D4) are generated from small sample datasets for validation purposes only and are expected to differ from the main results (Figs. 1–4).
 
 
 ## 📊 Testing

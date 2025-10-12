@@ -67,31 +67,11 @@ pip install <package_name>
 ## 🚀 Demo
 
 
-## 🛠️ Environmental  settings
-
-## 🔧 Dependencies
-
-
-## 🧪 Test
-
-
-## 📊 Evaluation
+## 📊 Test
 
 
 ## 📦
 
-### Using Python
-
-```
-from your_package import main_module
-
-# 
-instance = main_module.YourClass()
-
-# 
-result = instance.process_data("your input")
-print(result)
-```
 
 ## 📘 Instructions
 

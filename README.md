@@ -69,19 +69,19 @@ The *`demo`* directory provides lightweight analysis using small sample datasets
 ```
 demo/
 ├── demo1/
-│   ├── demo1_analysis.ipynb
+│   ├── demo1_analysis.py
 │   ├── demo1_data/
 │   └── FigD1.png
 ├── demo2/
-│   ├── demo2_analysis.ipynb
+│   ├── demo2_analysis.py
 │   ├── demo2_data/
 │   └── FigD2.png
 ├── demo3/
-│   ├── demo3_analysis.ipynb
+│   ├── demo3_analysis.py
 │   ├── demo3_data/
 │   └── FigD3.png
 └── demo4/
-    ├── demo4_analysis.ipynb
+    ├── demo4_analysis.py
     ├── demo4_data/
     └── FigD4.png
 ```

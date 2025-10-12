@@ -1,6 +1,6 @@
 # Interhemispheric tropical cyclone frequency trends
 ![Status](https://img.shields.io/badge/status-Under_Review-yellow)
-![Version](https://img.shields.io/badge/version-2025.10.12-red)
+![Version](https://img.shields.io/badge/version-2025.10.13-red)
 ![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -24,7 +24,7 @@ This repository includes the following directories:
 | *demo* | Test the above codes on a small dataset and output the corresponding results (**Figs. D1–D4**)|
 
 
-## 🖥️ Configuration (desktop)
+## ⚙️ Configuration (desktop)
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
@@ -52,7 +52,7 @@ This repository includes the following directories:
   GPU: NVIDIA GeForce GTX 750 Ti (dedicated) & Intel(R) UHD Graphics 770 (integrated)
   ```
 
-## ⚙️ Installation
+## 🚀 Installation
 All required packages can be installed via `conda` (from [**Conda-forge**](https://conda-forge.org)) or `pip` (from [**PyPI**](https://pypi.org)) using the following commands:
 ```
 # Using conda (recommended) ✅
@@ -64,7 +64,7 @@ pip install <package_name>
 **⏱️ Expected installation time**: Typically completes **within 5 minutes**, depending on the network speed and system configuration.
 
 
-## 🚀 Demo
+## 📚 Demo
 The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **analysis codes**, **sample data** and **corresponding output**:
 ```
 demo/

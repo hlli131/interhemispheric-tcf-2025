@@ -25,7 +25,6 @@ This repository includes the following folders:
 
 
 ## 🖥️ Configuration (desktop)
-
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
@@ -66,7 +65,7 @@ pip install <package_name>
 
 
 ## 🚀 Demo
-The *`demo`* folder provides a lightweight version of the analysis pipeline using a small sample dataset. This allows the audience to quickly verify that all components are working correctly before running the full analysis.
+The *`demo`* folder provides a lightweight version of the analysis pipeline using a small sample dataset. This allows users to quickly verify that all components are working correctly before running the full analysis.
 ```
 cd demo
 python run_demo.py
@@ -89,14 +88,12 @@ Original datasets for full analysis are publicly available from the following so
   Source: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels-monthly-means  
 
 ### Oceanic datasets
-- **Hadley Centre Sea Ice and Sea Surface Temperature (HadISST)**  
-  Source: https://www.metoffice.gov.uk/hadobs/hadisst  
-
-- **Extended Reconstructed Sea Surface Temperature version 6 (ERSSTv6)**  
-  Source: https://www.ncei.noaa.gov/products/extended-reconstructed-sst  
-
 - **ECMWF Ocean Reanalysis System 5 (ORAS5)**  
   Source: https://cds.climate.copernicus.eu/datasets/reanalysis-oras5  
+- **Hadley Centre Sea Ice and Sea Surface Temperature (HadISST)**  
+  Source: https://www.metoffice.gov.uk/hadobs/hadisst  
+- **Extended Reconstructed Sea Surface Temperature version 6 (ERSSTv6)**  
+  Source: https://www.ncei.noaa.gov/products/extended-reconstructed-sst  
 
 ### Multimodel simulations
 - **Coupled Model Intercomparison Project Phase 6 (CMIP6)**  

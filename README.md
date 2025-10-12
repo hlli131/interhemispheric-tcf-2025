@@ -1,6 +1,6 @@
 # Interhemispheric tropical cyclone frequency trends
 ![Status](https://img.shields.io/badge/status-Under_Review-yellow)
-![Version](https://img.shields.io/badge/version-2025.10.11-red)
+![Version](https://img.shields.io/badge/version-2025.10.12-red)
 ![Language](https://img.shields.io/badge/Python-3.11-3776ab?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -29,21 +29,22 @@ This repository includes the following folders:
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
-  numpy
-  pandas
-  scipy
-  matplotlib
-  scikit-learn
-  cartopy
-  cmaps
-  lightgbm
-  metpy
-  netCDF4
-  pymannkendall
-  statsmodels
-  xarray
-  xesmf
-  xgboost
+  Python==3.11
+  numpy==1.26.4
+  scipy==1.14.0
+  pandas==2.2.3
+  xarray==2025.4.0
+  netCDF4==1.7.2
+  matplotlib==3.10.0
+  cartopy==0.24.1
+  cmaps==2.0.1
+  scikit-learn==1.6.1
+  xgboost==3.0.1
+  lightgbm==4.6.0
+  statsmodels==0.14.4
+  pymannkendall==1.4.3
+  metpy==1.7.0
+  xesmf==0.8.7 (not recommended on Windows)
   ```
 - **Hardware**:
   ```
@@ -57,8 +58,13 @@ This repository includes the following folders:
   
 
 ## ⚙️ Installation
+All required packages can be installed via `conda` (from [**Conda-forge**](https://conda-forge.org)) or `pip` (from [**PyPI**](https://pypi.org)) using the following commands:
 ```
-conda install your-package-name
+# Using conda (recommended)
+conda install <package_name> -c conda-forge
+
+# Using pip
+pip install <package_name>
 ```
 
 

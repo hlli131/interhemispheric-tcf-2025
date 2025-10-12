@@ -88,11 +88,11 @@ demo/
 **📌 Please note**: These outputs (e.g., Figs. D1–D4) are generated from small sample datasets for validation purposes only and are expected to differ from the main results (Figs. 1–4).
 
 **⏱️ Expected running time**:
-- demo 1 & 2: ~2 minutes each
-- demo 3 & 4: ~5 minutes each
-- total for all demos: ~15 minutes
+- demo 1 & 2: **~2 minutes** each
+- demo 3 & 4: **~5 minutes** each
+- total for all demos: **~15 minutes**
 
-Actual running time may vary depending on system configuration and available resources.
+Actual running time may vary depending on system configuration and computational resources.
 
 
 

@@ -9,11 +9,11 @@
 
 ## 📖 Brief introduction
 This repository includes the following folders:
-- *observed_interhemispheric_contrast*
-- *key_factors_identification*
-- *detection_and_attribution_analysis*
-- *physical_mechanisms_explanation*
-- *demo*
+- *`observed_interhemispheric_contrast`*
+- *`key_factors_identification`*
+- *`detection_and_attribution_analysis`*
+- *`physical_mechanisms_explanation`*
+- *`demo`*
 
 | Folder name | Description |
 | ---------- | ---------- |
@@ -64,16 +64,43 @@ pip install <package_name>
 ```
 **⏱️ Expected installation time**: Typically completes **within 5 minutes**, depending on the network speed and system configuration.
 
+
 ## 🚀 Demo
+The *`demo`* folder provides a lightweight version of the analysis pipeline using a small sample dataset. This allows the audience to quickly verify that all components are working correctly before running the full analysis.
+```
+cd demo
+python run_demo.py
+```
 
 
-## 📊 Test
+
+## 📊 Testing
 
 
-## 📦
+## 📦 Data availability
+Original datasets for full analysis are publicly available from the following sources:
 
+### TC observations
+- **International Best Track Archive for Climate Stewardship (IBTrACS)**  
+  Source: https://www.ncei.noaa.gov/products/international-best-track-archive  
 
-## 📘 Instructions
+### Atmospheric reanalysis
+- **ECMWF Fifth-Generation Reanalysis (ERA5)**  
+  Source: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels-monthly-means  
+
+### Oceanic datasets
+- **Hadley Centre Sea Ice and Sea Surface Temperature (HadISST)**  
+  Source: https://www.metoffice.gov.uk/hadobs/hadisst  
+
+- **Extended Reconstructed Sea Surface Temperature version 6 (ERSSTv6)**  
+  Source: https://www.ncei.noaa.gov/products/extended-reconstructed-sst  
+
+- **ECMWF Ocean Reanalysis System 5 (ORAS5)**  
+  Source: https://cds.climate.copernicus.eu/datasets/reanalysis-oras5  
+
+### Multimodel simulations
+- **Coupled Model Intercomparison Project Phase 6 (CMIP6)**  
+  Source: https://pcmdi.llnl.gov/CMIP6  
 
 
 ## 📄 Licence

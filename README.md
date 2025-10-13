@@ -69,20 +69,24 @@ The *`demo`* directory provides lightweight analysis using small sample datasets
 ```
 demo/
 ├── demo1/
-│   ├── demo1_analysis.py
 │   ├── demo1_data/
+│   ├── demo1_analysis.py
+│   ├── demo1_analysis.ipynb
 │   └── FigD1.png
 ├── demo2/
-│   ├── demo2_analysis.py
 │   ├── demo2_data/
+│   ├── demo2_analysis.py
+│   ├── demo2_analysis.ipynb
 │   └── FigD2.png
 ├── demo3/
-│   ├── demo3_analysis.py
 │   ├── demo3_data/
+│   ├── demo3_analysis.py
+│   ├── demo3_analysis.ipynb
 │   └── FigD3.png
 └── demo4/
-    ├── demo4_analysis.py
     ├── demo4_data/
+    ├── demo4_analysis.py
+    ├── demo4_analysis.ipynb
     └── FigD4.png
 ```
 **📌 Please note**: These outputs (e.g., Figs. D1–D4) are generated from small sample datasets for validation purposes only and are expected to differ from the main results (Figs. 1–4).

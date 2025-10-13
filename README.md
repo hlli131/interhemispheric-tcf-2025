@@ -43,6 +43,7 @@ This repository includes the following directories:
   statsmodels==0.14.4
   pymannkendall==1.4.3
   metpy==1.7.0
+  tcpyPI=1.4.0
   xesmf==0.8.7 (not recommended on Windows)
   ```
 - **Hardware**:

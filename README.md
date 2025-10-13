@@ -65,7 +65,7 @@ pip install <package_name>
 
 
 ## 📚 Demo
-The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **analysis codes**, **sample data** and **corresponding output**:
+The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **sample data**, **analysis codes**, and **corresponding output**:
 ```
 demo/
 ├── demo1/

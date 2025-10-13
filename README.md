@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > For peer review only. The final version will be updated upon acceptance.
+<!-- 📮 For any inquiries, please feel free to reach out to the author via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn) -->
+📮 For any inquiries, please feel free to reach out to the author via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn)
 
 
 ## 📖 Brief introduction

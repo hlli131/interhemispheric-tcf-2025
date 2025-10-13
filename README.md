@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > For peer review only. The final version will be updated upon acceptance.
-<!-- 📮 For any inquiries, please feel free to reach out to the author via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn) -->
-📮 For any inquiries, please feel free to reach out to the author via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn)
+
+<!-- > For any inquiries, please feel free to reach out via email: [hlli@smail.nju.edu.cn](mailto:hlli@smail.nju.edu.cn) 📧 -->
 
 
 ## 📖 Brief introduction
@@ -55,6 +55,7 @@ This repository includes the following directories:
   GPU: NVIDIA GeForce GTX 750 Ti (dedicated) & Intel(R) UHD Graphics 770 (integrated)
   ```
 
+
 ## 🚀 Installation
 All required packages can be installed via `conda` (from [**Conda-forge**](https://conda-forge.org)) or `pip` (from [**PyPI**](https://pypi.org)) using the following commands:
 ```
@@ -102,7 +103,6 @@ demo/
 - total for all demos: **~15 minutes**
 
 Actual running time may vary depending on system configuration and computational resources.
-
 
 
 ## 📦 Data availability

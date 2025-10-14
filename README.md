@@ -30,7 +30,7 @@ This repository includes the following directories:
 - **Platform**: Windows Subsystem for Linux (WSL)  
 - **Dependencies**:
   ```
-  # Python==3.11
+  Python==3.11
   numpy==1.26.4
   scipy==1.14.0
   pandas==2.2.3

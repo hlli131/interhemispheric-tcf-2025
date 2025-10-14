@@ -38,8 +38,10 @@ This repository includes the following directories:
   netCDF4==1.7.2
   matplotlib==3.10.0
   cartopy==0.24.1
-  cmaps==2.0.1
+  cmaps==2.0.1  
+  shap==0.47.2
   scikit-learn==1.6.1
+  scikit-explain==0.1.4
   xgboost==3.0.1
   lightgbm==4.6.0
   statsmodels==0.14.4

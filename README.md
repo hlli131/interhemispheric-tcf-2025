@@ -100,9 +100,9 @@ demo/
 **⏱️ Expected running time**:
 - *`demo1`*: **~1 minutes**
 - *`demo2`*: **~2 minutes**
-- *`demo3`*: **~2 minutes**
+- *`demo3`*: **~1 minutes**
 - *`demo4`*: **~5 minutes**
-- total for all demos: **~15 minutes**
+- total for all demos: **~10 minutes**
 
 Actual running time may vary depending on system configuration and computational resources.
 

@@ -23,7 +23,7 @@ This repository includes the following directories:
 | *key_factors_identification* | Identify key factors and quantify their contributions and interactions applying IML (**Fig. 2**) |
 | *detection_and_attribution_analysis* | Detect and attribute TCF to human fingerprints using OFM and CMIP6 simulations (**Fig. 3**) |
 | *physical_mechanisms_explanation* | Explain the physical mechanisms through coupled thermodynamic and dynamic pathways (**Fig. 4**) |
-| *demo* | Test the above codes on a small dataset and output the corresponding results (**Figs. D1–D4**)|
+| *demo* | Test the code on a small dataset and output the corresponding results (**Figs. D1–D4**)|
 
 
 ## ⚙️ Configuration (desktop)
@@ -71,7 +71,7 @@ pip install <package_name>
 
 
 ## 📚 Demo
-The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **sample data**, **analysis codes**, and **corresponding output**:
+The *`demo`* directory provides lightweight analysis using small sample datasets, which allows users to quickly verify whether all components are functioning properly before conducting full analysis. Each demo is **completely standalone** and includes the **sample data**, **analysis code**, and **corresponding output**:
 ```
 demo/
 ├── demo1/

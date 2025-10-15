@@ -101,8 +101,8 @@ demo/
 - *`demo1`*: **~1 minutes**
 - *`demo2`*: **~2 minutes**
 - *`demo3`*: **~1 minutes**
-- *`demo4`*: **~5 minutes**
-- total for all demos: **~10 minutes**
+- *`demo4`*: **~1 minutes**
+- total for all demos: **~5 minutes**
 
 Actual running time may vary depending on system configuration and computational resources.
 

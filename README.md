@@ -54,7 +54,7 @@ This repository includes the following directories:
   ```
 - **Hardware**:
   ```
-  RAM: 16 GB
+  RAM: 32 GB
   CPU: Intel(R) Core(TM) i5-14500 (14 cores, 20 threads)
   GPU: NVIDIA GeForce GTX 750 Ti (dedicated) & Intel(R) UHD Graphics 770 (integrated)
   ```
